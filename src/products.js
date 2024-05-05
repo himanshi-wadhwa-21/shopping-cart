@@ -8,7 +8,7 @@ import product6 from "./assets/pedroimg (6).png";
 export const PRODUCTS = [
 {
 id: 1,
-productName: "IPhone",
+productName: "IPhone10",
 price: 99000,
 productImage: product1,
 },
